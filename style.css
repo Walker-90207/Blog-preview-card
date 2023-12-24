@@ -150,7 +150,7 @@ p{
 
 /* heading */
 
-h2:hover{
+h1:hover{
     cursor: pointer;
     color: var(--clr-primary);
 }
